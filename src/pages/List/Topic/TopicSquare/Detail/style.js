@@ -32,7 +32,7 @@ export const Wrapper =styled.div`
    .main{ 
        width: 100%;
        display: flex;
-       height: 28rem;
+       height: 29rem;
        overflow: hidden;
        .topic-left{
          position: fixed;

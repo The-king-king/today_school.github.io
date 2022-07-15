@@ -172,7 +172,7 @@ export const Content=styled.div`
  .input{
         background-color: #f9f9f9;
         border-radius: 0.5rem;
-        width: 95%;
+        width: 100%;
         outline: 0;
     }
  .operation{
